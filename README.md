@@ -1,7 +1,7 @@
-# 🚀 SkillTrack
+ SkillTrack AI
 ### Multi-Stakeholder Skilling & Employment Outcome Tracking Platform
 
-> 🏆 Smart India Hackathon (SIH) 2026 Project
+ Smart India Hackathon (SIH) 2026 Project
 
 Track employment outcomes, identify skill gaps, measure program impact, and improve evidence-based policymaking using AI-powered analytics.
 
@@ -14,7 +14,7 @@ Track employment outcomes, identify skill gaps, measure program impact, and impr
 
 ---
 
-# 📌 Overview
+#  Overview
 
 SkillTrack is a full-stack AI-powered platform developed for the **Smart India Hackathon (SIH) 2026** to solve the challenge of tracking long-term employment outcomes of trainees after completing skill development programs.
 
@@ -22,7 +22,7 @@ The platform enables government agencies, training institutes, employers, and ca
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Current skilling programs collect data such as:
 
@@ -47,22 +47,22 @@ Our platform solves this problem through AI-powered analytics and longitudinal o
 
 ---
 
-# 💡 Solution
+# Solution
 
 SkillTrack provides a centralized platform where:
 
-- 🏛 Government agencies monitor programme outcomes.
-- 🏫 Training Institutes manage candidates and placements.
-- 👤 Candidates maintain their digital Skill Passport.
-- 🏢 Employers recruit verified skilled candidates.
+- Government agencies monitor programme outcomes.
+-  Training Institutes manage candidates and placements.
+-  Candidates maintain their digital Skill Passport.
+-  Employers recruit verified skilled candidates.
 
 The platform continuously tracks employment outcomes and provides data-driven insights for better policymaking.
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🏛 Admin Dashboard
+##  Admin Dashboard
 
 - Programme Analytics
 - Placement Statistics
@@ -72,7 +72,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 - Provider Performance
 - AI Insights
 
-## 🏫 Institute Dashboard
+##  Institute Dashboard
 
 - Manage Training Programmes
 - Candidate Enrollment
@@ -80,7 +80,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 - Upload Placement Data
 - Completion Reports
 
-## 👤 Candidate Dashboard
+##  Candidate Dashboard
 
 - Digital Skill Passport
 - Certificates
@@ -89,7 +89,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 - Skills & Certifications
 - Career Progress
 
-## 🏢 Employer Dashboard
+##  Employer Dashboard
 
 - Post Jobs
 - Browse Candidates
@@ -97,7 +97,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 - Verify Employment
 - Skill Matching
 
-## 📊 Analytics
+##  Analytics
 
 - Placement Rate
 - Wage Growth
@@ -108,7 +108,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Technology | Used |
 |------------|------|
@@ -122,7 +122,7 @@ The platform continuously tracks employment outcomes and provides data-driven in
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 skilltrack/
@@ -145,7 +145,7 @@ skilltrack/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone Repository
 
@@ -194,39 +194,39 @@ http://localhost:5173
 
 ---
 
-# 📷 Screenshots
+# Screenshots
 
-## 🏠 Landing Page
-
-(Add Screenshot Here)
-
----
-
-## 🏛 Admin Dashboard
+##  Landing Page
 
 (Add Screenshot Here)
 
 ---
 
-## 🏫 Institute Dashboard
+## Admin Dashboard
 
 (Add Screenshot Here)
 
 ---
 
-## 👤 Candidate Dashboard
+##  Institute Dashboard
 
 (Add Screenshot Here)
 
 ---
 
-## 🏢 Employer Dashboard
+##  Candidate Dashboard
 
 (Add Screenshot Here)
 
 ---
 
-# 🚀 Future Enhancements
+##  Employer Dashboard
+
+(Add Screenshot Here)
+
+---
+
+#  Future Enhancements
 
 - AI Career Recommendation
 - Resume ATS Analysis
@@ -241,7 +241,7 @@ http://localhost:5173
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 ### Manual Testing
 
@@ -261,7 +261,7 @@ http://localhost:5173
 
 ---
 
-# 🎯 Expected Outcomes
+#  Expected Outcomes
 
 - Better Programme Monitoring
 - Improved Placement Rates
@@ -273,26 +273,26 @@ http://localhost:5173
 
 ---
 
-# 📄 License
+# License
 
 This project is developed for **Smart India Hackathon (SIH) 2026** for educational and research purposes.
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you like this project,
 
-⭐ Star this repository
+ Star this repository
 
-🍴 Fork this repository
+🍴Fork this repository
 
-🐛 Report Issues
+ Report Issues
 
-💡 Suggest New Features
+Suggest New Features
 
 ---
 
 ## Thank You ❤️
 
-Made with ❤️ by **Team SkillTrack**
+Made with ❤️ by **Team SkillTrack AI**
