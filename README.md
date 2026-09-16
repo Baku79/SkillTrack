@@ -311,4 +311,4 @@ Made with ❤️ by **Team SkillTrack**
 
 
 
-<img width="1202" height="729" alt="image" src="https://github.com/user-attachments/assets/497c2c9b-3b3a-4bfe-8500-681abf35cbeb" />
+
