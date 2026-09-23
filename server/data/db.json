@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1790171774992",
+      "name": "prathamesh dahiphale",
+      "email": "institute@skilltrack.in",
+      "password": "$2a$10$PnOCHSeiDHpWvpiZ3e6XlOjMiNSD4rkQRADAtoJP4R7Wt3h8UGXfi",
+      "role": "candidate",
+      "phone": "08669634876",
+      "organization": "",
+      "region": "Maharashtra",
+      "createdAt": "2026-09-23T13:56:14.992Z",
+      "lastLogin": null,
+      "loginCount": 0
+    },
+    {
+      "id": "1790180272389",
+      "name": "prathamesh dahiphale",
+      "email": "prathameshdahiphale680@gmail.com",
+      "password": "$2a$10$ipCpV06zlSfdl0T2D.5CPO8tSAm63DwSjaWuRzmTtUkMfoxJc93W.",
+      "role": "candidate",
+      "phone": "08669634876",
+      "organization": "jspm",
+      "region": "Maharashtra",
+      "createdAt": "2026-09-23T16:17:52.389Z",
+      "lastLogin": null,
+      "loginCount": 0
+    }
+  ],
+  "logs": [
+    {
+      "id": "1790180272392",
+      "type": "REGISTER",
+      "userId": "1790180272389",
+      "userName": "prathamesh dahiphale",
+      "userEmail": "prathameshdahiphale680@gmail.com",
+      "userRole": "candidate",
+      "action": "Account created",
+      "timestamp": "2026-09-23T16:17:52.392Z"
+    },
+    {
+      "id": "1790172887395",
+      "type": "LOGIN_FAIL",
+      "userEmail": "candidate@skilltrack.in",
+      "action": "Login failed - user not found",
+      "timestamp": "2026-09-23T14:14:47.395Z"
+    },
+    {
+      "id": "1790172885881",
+      "type": "LOGIN_FAIL",
+      "userEmail": "candidate@skilltrack.in",
+      "action": "Login failed - user not found",
+      "timestamp": "2026-09-23T14:14:45.881Z"
+    },
+    {
+      "id": "1790172881933",
+      "type": "LOGIN_FAIL",
+      "userEmail": "institute@skilltrack.in",
+      "userName": "prathamesh dahiphale",
+      "action": "Login failed - wrong password",
+      "timestamp": "2026-09-23T14:14:41.933Z"
+    },
+    {
+      "id": "1790171774994",
+      "type": "REGISTER",
+      "userId": "1790171774992",
+      "userName": "prathamesh dahiphale",
+      "userEmail": "institute@skilltrack.in",
+      "userRole": "candidate",
+      "action": "Account created",
+      "timestamp": "2026-09-23T13:56:14.994Z"
+    },
+    {
+      "id": "1790171730058",
+      "type": "LOGIN_FAIL",
+      "userEmail": "institute@skilltrack.in",
+      "action": "Login failed - user not found",
+      "timestamp": "2026-09-23T13:55:30.058Z"
+    }
+  ]
+}
