@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: skilltrack-api
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    plan: free
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: JWT_SECRET
+        generateValue: true
+      - key: NODE_ENV
+        value: production
+    disk:
+      name: skilltrack-data
+      mountPath: /opt/render/project/src/data
+      sizeGB: 1
