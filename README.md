@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 SkillTrack
+#  SkillTrack
 
 ### National Skilling & Employment Outcome Tracking Platform
 **Smart India Hackathon (SIH) 2026 Innovation**
