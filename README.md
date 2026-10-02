@@ -20,7 +20,7 @@ Track employment outcomes, analyze skill gaps, measure program impact, and enabl
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 **SkillTrack** is a centralized, multi-stakeholder platform engineered for **Smart India Hackathon (SIH) 2026**. It solves a critical gap in India's skill development ecosystem: *the lack of longitudinal tracking of trainees after certification.*
 
@@ -28,18 +28,18 @@ While conventional platforms stop at enrollment and certification, **SkillTrack*
 
 ---
 
-## ✨ Key Capabilities
+##  Key Capabilities
 
 | Role / Portal | Highlights & Core Features |
 | :--- | :--- |
-| 🏛️ **Admin (Government)** | • **Reports Centre**: Generate, edit, and download official Excel (`.xlsx`) & CSV reports.<br>• **Full Data Management**: Inline edit, add, and delete records for Placement and Skill Gap analytics.<br>• **Real-Time Analytics**: Live registration trends, daily login charts, and district-wise outcome monitoring.<br>• **Identity Governance**: Government ID verification (Aadhaar / Passport / Govt ID) required for admin accounts. |
-| 🏫 **Training Institute** | • Batch enrollment & candidate tracking.<br>• Placement status updates & certification logging.<br>• Sector-wise employment performance metrics. |
-| 👤 **Candidate** | • Digital **Skill Passport** with verified training history.<br>• Career progression log, certification downloads, and job application tracking. |
-| 🏢 **Employer** | • Browse verified candidate profiles matching specific skill requirements.<br>• Directly recruit skilled workforce & confirm employment retention. |
+|  **Admin (Government)** | • **Reports Centre**: Generate, edit, and download official Excel (`.xlsx`) & CSV reports.<br>• **Full Data Management**: Inline edit, add, and delete records for Placement and Skill Gap analytics.<br>• **Real-Time Analytics**: Live registration trends, daily login charts, and district-wise outcome monitoring.<br>• **Identity Governance**: Government ID verification (Aadhaar / Passport / Govt ID) required for admin accounts. |
+|  **Training Institute** | • Batch enrollment & candidate tracking.<br>• Placement status updates & certification logging.<br>• Sector-wise employment performance metrics. |
+|  **Candidate** | • Digital **Skill Passport** with verified training history.<br>• Career progression log, certification downloads, and job application tracking. |
+|  **Employer** | • Browse verified candidate profiles matching specific skill requirements.<br>• Directly recruit skilled workforce & confirm employment retention. |
 
 ---
 
-## 🔒 Security & Authentication
+##  Security & Authentication
 
 - **2-Factor Authentication (2FA)**: Password check followed by automated 6-digit OTP verification via **Email (Nodemailer)** or **SMS (Twilio)**.
 - **Forgot Password Flow**: Secure 3-step OTP verification and password reset system.
@@ -48,7 +48,7 @@ While conventional platforms stop at enrollment and certification, **SkillTrack*
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Usage / Purpose |
 | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ While conventional platforms stop at enrollment and certification, **SkillTrack*
 
 ---
 
-## 📁 Repository Architecture
+##  Repository Architecture
 
 ```text
 skilltrack/
@@ -89,7 +89,7 @@ skilltrack/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Node.js**: v18.x or higher
@@ -147,7 +147,7 @@ npm run dev -- --host
 
 ---
 
-## 🌐 Local Wi-Fi Network Access
+## Local Wi-Fi Network Access
 
 To test SkillTrack on multiple laptops or mobile devices on the same Wi-Fi:
 1. Ensure the frontend is launched with `--host`.
@@ -164,7 +164,7 @@ For detailed deployment instructions, refer to [DEPLOY.md](./DEPLOY.md).
 
 ---
 
-## 👥 Default Demo Credentials
+##  Default Demo Credentials
 
 | Role | Email | Password | Govt ID / Details |
 | :--- | :--- | :--- | :--- |
@@ -175,12 +175,12 @@ For detailed deployment instructions, refer to [DEPLOY.md](./DEPLOY.md).
 
 ---
 
-## 📜 License & Citation
+## License & Citation
 
-Developed for **Smart India Hackathon (SIH) 2026**. Developed with ❤️ by **Team SkillTrack**.
+Developed for **Smart India Hackathon (SIH) 2026**. Developed with  by **Team SkillTrack**.
 
 ---
 
 <div align="center">
-⭐ <b>Star this repository if you find it helpful!</b>
+<b>Star this repository if you find it helpful!</b>
 </div>
